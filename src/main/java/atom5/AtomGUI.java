@@ -41,7 +41,6 @@ import javax.swing.SwingConstants;
 import javax.swing.text.BadLocationException;
 import javax.swing.text.SimpleAttributeSet;
 
-import com.jgoodies.forms.factories.DefaultComponentFactory;
 import javax.swing.JTextPane;
 
 public class AtomGUI extends JFrame {
@@ -385,3 +384,4 @@ public class AtomGUI extends JFrame {
         }
     }
 }
+
